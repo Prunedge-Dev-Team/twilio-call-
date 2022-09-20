@@ -134,6 +134,7 @@ var DialerApp = React.createClass({
             currentNumber: '',
             isValidNumber: false,
             countries: [
+                { name: 'Nigeria', cc: '234', code: 'ng' },
                 { name: 'United States', cc: '1', code: 'us' },
                 { name: 'Great Britain', cc: '44', code: 'gb' },
                 { name: 'Colombia', cc: '57', code: 'co' },
