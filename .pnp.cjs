@@ -36,6 +36,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["body-parser", "npm:1.20.0"],\
             ["chai", "npm:4.3.6"],\
             ["cheerio", "npm:1.0.0-rc.12"],\
+            ["dotenv", "npm:16.0.2"],\
             ["dotenv-safe", "npm:8.2.0"],\
             ["eslint", "npm:8.23.1"],\
             ["eslint-config-google", "virtual:f5126a6c59718fab632a5fe9c89dad727d14c0854924da0278c36945a50e100550614ee30506e48e5221c7c36dc5ebab4a104a63756e8b71f6e37453259fec8c#npm:0.14.0"],\
@@ -413,6 +414,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["body-parser", "npm:1.20.0"],\
             ["chai", "npm:4.3.6"],\
             ["cheerio", "npm:1.0.0-rc.12"],\
+            ["dotenv", "npm:16.0.2"],\
             ["dotenv-safe", "npm:8.2.0"],\
             ["eslint", "npm:8.23.1"],\
             ["eslint-config-google", "virtual:f5126a6c59718fab632a5fe9c89dad727d14c0854924da0278c36945a50e100550614ee30506e48e5221c7c36dc5ebab4a104a63756e8b71f6e37453259fec8c#npm:0.14.0"],\
@@ -1067,6 +1069,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["dotenv", [\
+        ["npm:16.0.2", {\
+          "packageLocation": "./.yarn/cache/dotenv-npm-16.0.2-80af4821b1-ca8f9ca2d6.zip/node_modules/dotenv/",\
+          "packageDependencies": [\
+            ["dotenv", "npm:16.0.2"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
         ["npm:8.6.0", {\
           "packageLocation": "./.yarn/cache/dotenv-npm-8.6.0-2ce3e9f7bb-38e902c80b.zip/node_modules/dotenv/",\
           "packageDependencies": [\
