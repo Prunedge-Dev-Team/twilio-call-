@@ -307,6 +307,7 @@ __metadata:
     body-parser: ^1.20.0
     chai: ^4.3.6
     cheerio: ^1.0.0-rc.12
+    dotenv: ^16.0.2
     dotenv-safe: ^8.2.0
     eslint: ^8.23.1
     eslint-config-google: ^0.14.0
@@ -851,6 +852,13 @@ __metadata:
   dependencies:
     dotenv: ^8.2.0
   checksum: 8b73770330528d77630009afa44239127c44d634b0fa7d7545932a8e72686d774ceadea62d381ed7c911e0facac4ee1489132e44b746f36eb8f2e3ee6929eb78
+  languageName: node
+  linkType: hard
+
+"dotenv@npm:^16.0.2":
+  version: 16.0.2
+  resolution: "dotenv@npm:16.0.2"
+  checksum: ca8f9ca2d67929c7771069f4c31b4e46b9932621009e658e5afd655dde2d69b77642bf36dbc9e72bc170523dfd908a9ee41c26f034c1fdc605ace3b1b4b10faf
   languageName: node
   linkType: hard
 
